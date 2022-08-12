@@ -1,4 +1,4 @@
-package com.example.animation.belajar
+package com.example.belajarkotlin
 
 fun main() {
     val nilaiMatematika= 85
